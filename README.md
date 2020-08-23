@@ -7,3 +7,9 @@ def removeDuplicate():
             uniqueWords.add(word)
     print(uniqueWords)
 removeDuplicate()
+
+Output:
+surya,surya,vijay,krish,kumar
+{'krish', 'vijay', 'kumar', 'surya'}
+
+Process finished with exit code 0
